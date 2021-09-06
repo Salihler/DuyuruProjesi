@@ -1,0 +1,5 @@
+/Users/erensalihler/Desktop/projects/DuyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.csproj.AssemblyReference.cache
+/Users/erensalihler/Desktop/projects/DuyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erensalihler/Desktop/projects/DuyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.AssemblyInfoInputs.cache
+/Users/erensalihler/Desktop/projects/DuyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.AssemblyInfo.cs
+/Users/erensalihler/Desktop/projects/DuyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.csproj.CoreCompileInputs.cache
