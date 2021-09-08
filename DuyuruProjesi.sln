@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuyuruProjesi.Core", "Duyur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuyuruProjesi.Data", "DuyuruProjesi.Data\DuyuruProjesi.Data.csproj", "{1060111D-DCAE-406C-8046-1A29954B9583}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuyuruProjesi.Service", "DuyuruProjesi.Service\DuyuruProjesi.Service.csproj", "{E2FD9A28-E490-4236-B50D-7688838887A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{1060111D-DCAE-406C-8046-1A29954B9583}.Release|x64.Build.0 = Release|Any CPU
 		{1060111D-DCAE-406C-8046-1A29954B9583}.Release|x86.ActiveCfg = Release|Any CPU
 		{1060111D-DCAE-406C-8046-1A29954B9583}.Release|x86.Build.0 = Release|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Debug|x64.Build.0 = Debug|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Debug|x86.Build.0 = Debug|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Release|x64.ActiveCfg = Release|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Release|x64.Build.0 = Release|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Release|x86.ActiveCfg = Release|Any CPU
+		{E2FD9A28-E490-4236-B50D-7688838887A3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
