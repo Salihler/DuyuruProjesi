@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DuyuruProjesi.Service
-build_property.ProjectDir = c:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Service\
+build_property.ProjectDir = /home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/

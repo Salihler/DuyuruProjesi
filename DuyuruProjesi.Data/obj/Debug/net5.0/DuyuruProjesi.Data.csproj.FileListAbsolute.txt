@@ -1,18 +1,36 @@
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\bin\Debug\net5.0\DuyuruProjesi.Data.deps.json
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\bin\Debug\net5.0\DuyuruProjesi.Data.runtimeconfig.json
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\bin\Debug\net5.0\DuyuruProjesi.Data.runtimeconfig.dev.json
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\bin\Debug\net5.0\DuyuruProjesi.Data.dll
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\bin\Debug\net5.0\ref\DuyuruProjesi.Data.dll
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\bin\Debug\net5.0\DuyuruProjesi.Data.pdb
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\bin\Debug\net5.0\DuyuruProjesi.Core.dll
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\bin\Debug\net5.0\DuyuruProjesi.Core.pdb
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\obj\Debug\net5.0\DuyuruProjesi.Data.csproj.AssemblyReference.cache
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\obj\Debug\net5.0\DuyuruProjesi.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\obj\Debug\net5.0\DuyuruProjesi.Data.AssemblyInfoInputs.cache
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\obj\Debug\net5.0\DuyuruProjesi.Data.AssemblyInfo.cs
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\obj\Debug\net5.0\DuyuruProjesi.Data.csproj.CoreCompileInputs.cache
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\obj\Debug\net5.0\DuyuruProjesi.Data.csproj.CopyComplete
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\obj\Debug\net5.0\DuyuruProjesi.Data.dll
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\obj\Debug\net5.0\ref\DuyuruProjesi.Data.dll
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\obj\Debug\net5.0\DuyuruProjesi.Data.pdb
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Data\obj\Debug\net5.0\DuyuruProjesi.Data.genruntimeconfig.cache
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Data.deps.json
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Data.runtimeconfig.json
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Data.runtimeconfig.dev.json
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Data.dll
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/bin/Debug/net5.0/ref/DuyuruProjesi.Data.dll
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Data.pdb
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Core.dll
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Core.pdb
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.csproj.AssemblyReference.cache
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.AssemblyInfoInputs.cache
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.AssemblyInfo.cs
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.csproj.CoreCompileInputs.cache
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.csproj.CopyComplete
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.dll
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/obj/Debug/net5.0/ref/DuyuruProjesi.Data.dll
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.pdb
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.genruntimeconfig.cache
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Data.deps.json
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Data.runtimeconfig.json
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Data.runtimeconfig.dev.json
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Data.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/bin/Debug/net5.0/ref/DuyuruProjesi.Data.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Data.pdb
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Core.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/bin/Debug/net5.0/DuyuruProjesi.Core.pdb
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.csproj.AssemblyReference.cache
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.AssemblyInfoInputs.cache
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.AssemblyInfo.cs
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.csproj.CoreCompileInputs.cache
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.csproj.CopyComplete
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/ref/DuyuruProjesi.Data.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.pdb
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/Debug/net5.0/DuyuruProjesi.Data.genruntimeconfig.cache

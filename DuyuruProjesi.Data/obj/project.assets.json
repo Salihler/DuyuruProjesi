@@ -873,19 +873,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\erens\\.nuget\\packages\\": {}
+    "/home/salihler/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\Duyuru Projesi\\DuyuruProjesi.Data\\DuyuruProjesi.Data.csproj",
+      "projectUniqueName": "/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/DuyuruProjesi.Data.csproj",
       "projectName": "DuyuruProjesi.Data",
-      "projectPath": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\Duyuru Projesi\\DuyuruProjesi.Data\\DuyuruProjesi.Data.csproj",
-      "packagesPath": "C:\\Users\\erens\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\Duyuru Projesi\\DuyuruProjesi.Data\\obj\\",
+      "projectPath": "/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/DuyuruProjesi.Data.csproj",
+      "packagesPath": "/home/salihler/.nuget/packages/",
+      "outputPath": "/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\erens\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/salihler/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -897,8 +897,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\Duyuru Projesi\\DuyuruProjesi.Core\\DuyuruProjesi.Core.csproj": {
-              "projectPath": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\Duyuru Projesi\\DuyuruProjesi.Core\\DuyuruProjesi.Core.csproj"
+            "/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/DuyuruProjesi.Core.csproj": {
+              "projectPath": "/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/DuyuruProjesi.Core.csproj"
             }
           }
         }
@@ -961,7 +961,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

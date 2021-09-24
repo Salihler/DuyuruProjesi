@@ -1,12 +1,23 @@
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\bin\Debug\net5.0\DuyuruProjesi.Core.deps.json
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\bin\Debug\net5.0\DuyuruProjesi.Core.dll
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\bin\Debug\net5.0\ref\DuyuruProjesi.Core.dll
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\bin\Debug\net5.0\DuyuruProjesi.Core.pdb
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\obj\Debug\net5.0\DuyuruProjesi.Core.csproj.AssemblyReference.cache
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\obj\Debug\net5.0\DuyuruProjesi.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\obj\Debug\net5.0\DuyuruProjesi.Core.AssemblyInfoInputs.cache
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\obj\Debug\net5.0\DuyuruProjesi.Core.AssemblyInfo.cs
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\obj\Debug\net5.0\DuyuruProjesi.Core.csproj.CoreCompileInputs.cache
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\obj\Debug\net5.0\DuyuruProjesi.Core.dll
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\obj\Debug\net5.0\ref\DuyuruProjesi.Core.dll
-C:\Users\erens\OneDrive\Masaüstü\Projects\Side Projects\Duyuru Projesi\DuyuruProjesi.Core\obj\Debug\net5.0\DuyuruProjesi.Core.pdb
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/bin/Debug/net5.0/DuyuruProjesi.Core.deps.json
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/bin/Debug/net5.0/DuyuruProjesi.Core.dll
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/bin/Debug/net5.0/ref/DuyuruProjesi.Core.dll
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/bin/Debug/net5.0/DuyuruProjesi.Core.pdb
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.csproj.AssemblyReference.cache
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.AssemblyInfoInputs.cache
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.AssemblyInfo.cs
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.csproj.CoreCompileInputs.cache
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.dll
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/obj/Debug/net5.0/ref/DuyuruProjesi.Core.dll
+C:/Users/erens/OneDrive/Masaüstü/Projects/Side Projects/Duyuru Projesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.pdb
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/bin/Debug/net5.0/DuyuruProjesi.Core.deps.json
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/bin/Debug/net5.0/DuyuruProjesi.Core.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/bin/Debug/net5.0/ref/DuyuruProjesi.Core.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/bin/Debug/net5.0/DuyuruProjesi.Core.pdb
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.AssemblyInfoInputs.cache
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.AssemblyInfo.cs
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.csproj.CoreCompileInputs.cache
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/obj/Debug/net5.0/ref/DuyuruProjesi.Core.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Core/obj/Debug/net5.0/DuyuruProjesi.Core.pdb

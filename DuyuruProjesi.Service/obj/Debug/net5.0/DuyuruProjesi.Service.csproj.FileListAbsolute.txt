@@ -1,0 +1,17 @@
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/bin/Debug/net5.0/DuyuruProjesi.Service.deps.json
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/bin/Debug/net5.0/DuyuruProjesi.Service.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/bin/Debug/net5.0/ref/DuyuruProjesi.Service.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/bin/Debug/net5.0/DuyuruProjesi.Service.pdb
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/bin/Debug/net5.0/DuyuruProjesi.Core.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/bin/Debug/net5.0/DuyuruProjesi.Data.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/bin/Debug/net5.0/DuyuruProjesi.Core.pdb
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/bin/Debug/net5.0/DuyuruProjesi.Data.pdb
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/obj/Debug/net5.0/DuyuruProjesi.Service.csproj.AssemblyReference.cache
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/obj/Debug/net5.0/DuyuruProjesi.Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/obj/Debug/net5.0/DuyuruProjesi.Service.AssemblyInfoInputs.cache
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/obj/Debug/net5.0/DuyuruProjesi.Service.AssemblyInfo.cs
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/obj/Debug/net5.0/DuyuruProjesi.Service.csproj.CoreCompileInputs.cache
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/obj/Debug/net5.0/DuyuruProjesi.Service.csproj.CopyComplete
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/obj/Debug/net5.0/DuyuruProjesi.Service.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/obj/Debug/net5.0/ref/DuyuruProjesi.Service.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Service/obj/Debug/net5.0/DuyuruProjesi.Service.pdb
