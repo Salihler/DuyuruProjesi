@@ -9,10 +9,13 @@ namespace DuyuruProjesi.Core.Repositories
     {
         Task<IEnumerable<TEntity>> GetAllAsync();
         Task<TEntity> GetByIdAsync(int id);
-        Task<TEntity> AddAsync(TEntity entity);
-        Task<IEnumerable<TEntity>> AddRangeAsync(IEnumerable<TEntity> entity);
-        Task<TEntity> UpdateAsync(TEntity entity);
-        Task<TEntity> RemoveAsync (int id);
-        Task<IEnumerable<TEntity>> FindAsync(Expression<Func<TEntity,bool>> predicate);
+        Task AddAsync(TEntity entity);
+        Task AddRangeAsync(IEnumerable<TEntity> entities);
+        TEntity Update(TEntity entity);
+        void Remove (TEntity entity);
+        void RemoveRange (IEnumerable<TEntity> entities);
+        Task<IEnumerable<TEntity>> Where(Expression<Func<TEntity,bool>> predicate);
+        Task<TEntity> FindAsync(Expression<Func<TEntity,bool>> predicate);
+
     }
 }

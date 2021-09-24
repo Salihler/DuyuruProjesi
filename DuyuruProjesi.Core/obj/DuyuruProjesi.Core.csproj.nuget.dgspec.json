@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erensalihler/Desktop/projects/DuyuruProjesi/DuyuruProjesi.Core/DuyuruProjesi.Core.csproj": {}
+    "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\Duyuru Projesi\\DuyuruProjesi.Core\\DuyuruProjesi.Core.csproj": {}
   },
   "projects": {
-    "/Users/erensalihler/Desktop/projects/DuyuruProjesi/DuyuruProjesi.Core/DuyuruProjesi.Core.csproj": {
+    "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\Duyuru Projesi\\DuyuruProjesi.Core\\DuyuruProjesi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erensalihler/Desktop/projects/DuyuruProjesi/DuyuruProjesi.Core/DuyuruProjesi.Core.csproj",
+        "projectUniqueName": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\Duyuru Projesi\\DuyuruProjesi.Core\\DuyuruProjesi.Core.csproj",
         "projectName": "DuyuruProjesi.Core",
-        "projectPath": "/Users/erensalihler/Desktop/projects/DuyuruProjesi/DuyuruProjesi.Core/DuyuruProjesi.Core.csproj",
-        "packagesPath": "/Users/erensalihler/.nuget/packages/",
-        "outputPath": "/Users/erensalihler/Desktop/projects/DuyuruProjesi/DuyuruProjesi.Core/obj/",
+        "projectPath": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\Duyuru Projesi\\DuyuruProjesi.Core\\DuyuruProjesi.Core.csproj",
+        "packagesPath": "C:\\Users\\erens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erens\\OneDrive\\Masaüstü\\Projects\\Side Projects\\Duyuru Projesi\\DuyuruProjesi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/erensalihler/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\erens\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
