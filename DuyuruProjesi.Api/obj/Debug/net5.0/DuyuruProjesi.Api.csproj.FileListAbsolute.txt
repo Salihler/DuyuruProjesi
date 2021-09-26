@@ -7,8 +7,10 @@
 /home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/bin/Debug/net5.0/DuyuruProjesi.Api.dll
 /home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/bin/Debug/net5.0/ref/DuyuruProjesi.Api.dll
 /home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/bin/Debug/net5.0/DuyuruProjesi.Api.pdb
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/bin/Debug/net5.0/Humanizer.dll
 /home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
 /home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
 /home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
 /home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/bin/Debug/net5.0/Microsoft.OpenApi.dll
 /home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/bin/Debug/net5.0/Npgsql.dll

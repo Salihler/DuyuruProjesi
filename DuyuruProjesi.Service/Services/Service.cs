@@ -15,7 +15,7 @@ namespace DuyuruProjesi.Service.Services
         private readonly IRepository<TEntity> _repository;
         private readonly IUnitOfWork _unitOfWork;
 
-        public Service(Repository<TEntity> repository, UnitOfWork unitOfWork)
+        public Service(IRepository<TEntity> repository, IUnitOfWork unitOfWork)
         {
             _repository = repository;
             _unitOfWork = unitOfWork;

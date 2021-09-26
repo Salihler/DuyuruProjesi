@@ -2,10 +2,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DuyuruProjesi.Core.Repositories;
+using DuyuruProjesi.Core.Services;
+using DuyuruProjesi.Core.UnitOfWorks;
+using DuyuruProjesi.Data;
+using DuyuruProjesi.Data.Repositories;
+using DuyuruProjesi.Data.UnitOfWorks;
+using DuyuruProjesi.Service.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -26,6 +34,17 @@ namespace DuyuruProjesi.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped(typeof(IService<>), typeof(Service<>));
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            services.AddScoped<IUnitOfWork,UnitOfWork>();
+
+            services.AddDbContext<AppDbContext>(options => {
+                options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"), o => {
+                    o.MigrationsAssembly("DuyuruProjesi.Data");
+                });
+            });
+
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "D8e34u0NIT1NL4S914mtMrwAMJwbm64LFyrRP1dFwmLH6YJva7dAA7UwVYmXMYDP0gOh7IFwIUIhSaaZCn+zeA==",
+  "dgSpecHash": "d/IwTeJ1PyO8vWnz76uWw+j3NhKVDT9KqZpL7iMHmE5rMZcawGH+/o2UplnBv4v7xDPA2P2If8KBWAYGKJVS1Q==",
   "success": true,
   "projectFilePath": "/home/salihler/Desktop/projects/sideProjects/duyuruProjesi/DuyuruProjesi.Api/DuyuruProjesi.Api.csproj",
   "expectedPackageFiles": [
+    "/home/salihler/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/salihler/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/salihler/.nuget/packages/microsoft.entityframeworkcore/5.0.0/microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "/home/salihler/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.0/microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
     "/home/salihler/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.0/microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "/home/salihler/.nuget/packages/microsoft.entityframeworkcore.design/5.0.0/microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
     "/home/salihler/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.0/microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
     "/home/salihler/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/salihler/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
